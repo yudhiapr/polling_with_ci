@@ -1,0 +1,10 @@
+[13-Aug-2014 03:06:38 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/sarikata/demo/proker/demo/application/controllers/importme.php on line 33
+[13-Aug-2014 03:07:06 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/sarikata/demo/proker/demo/application/controllers/importme.php on line 51
+[13-Aug-2014 03:07:21 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/sarikata/demo/proker/demo/application/controllers/importme.php on line 62
+[13-Aug-2014 03:12:57 UTC] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home/sarikata/demo/proker/demo/application/controllers/importme.php on line 62
+[13-Aug-2014 06:21:46 UTC] PHP Parse error:  syntax error, unexpected $end in /home/sarikata/demo/proker/demo/application/controllers/program_kerja.php on line 75
+[13-Aug-2014 06:22:14 UTC] PHP Parse error:  syntax error, unexpected $end in /home/sarikata/demo/proker/demo/application/controllers/program_kerja.php on line 75
+[14-Aug-2014 19:52:05 Asia/Jakarta] PHP Fatal error:  Call to undefined function numberformat() in /home/sarikata/demo/proker/demo/application/views/program_kerja/index.php on line 114
+[14-Aug-2014 12:55:42 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home/sarikata/demo/proker/demo/application/controllers/master.php on line 220
+[20-Aug-2014 03:42:45 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/sarikata/demo/proker/demo/application/controllers/program_kerja.php on line 242
+[22-Aug-2014 14:32:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/sarikata/demo/proker/demo/application/views/program_kerja/index.php on line 114
